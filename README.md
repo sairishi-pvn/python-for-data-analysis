@@ -1,4 +1,4 @@
-a# Python for Data Analysis
+## Python for Data Analysis
 
 This repository contains Jupyter notebooks covering Python fundamentals
 and basic data analysis concepts using:
